@@ -1,6 +1,6 @@
 # Templeton Data Science
 
-Starting point for the studey of Data Science for Templeton STEM students
+Starting point for the study of Data Science for Templeton STEM students
 
 ___
 
