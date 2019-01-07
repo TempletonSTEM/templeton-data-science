@@ -30,4 +30,4 @@ title: Resources
 - [Installation instructions for the MDS software stack](/resources_pages/installation_instructions)
 - [Publicly available teaching materials](https://github.com/UBC-MDS/public)
 --->
-- [Data Science Terminology](/pages/resources/terminology)
+- [Data Science Terminology](./pages/resources/terminology)
